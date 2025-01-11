@@ -1,0 +1,2 @@
+# Wyłączenie zmiany końców linii w plikach Jupyter Notebook
+*.ipynb -text
