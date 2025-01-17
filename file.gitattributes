@@ -1,2 +1,9 @@
-# Wyłączenie zmiany końców linii w plikach Jupyter Notebook
-*.ipynb -text
+# Dla plików tekstowych
+*.txt text eol=lf
+
+# Dla plików Jupyter Notebook
+*.ipynb text eol=lf
+
+# Dla plików binarnych (bez konwersji)
+*.png binary
+*.jpg binary

@@ -1,2 +1,2 @@
-# Analysis-of-the-2020-US-presidential-election
-Analysis of the 2020 US presidential election
+## Analiza danych demograficznych z wyborów prezydenckich w USA w 2020 roku
+Celem analizy jest zbadanie związków między wynikami wyborów prezydenckich w USA w 2020 roku a czynnikami demograficznymi, zawodowymi oraz wskaźnikami ekonomicznymi, takimi jak dochody, stopień edukacji, etniczność, zatrudnienie. Warto dodać, że te wybory prezydenckie mniały rekordową frekwencję - 66.7% osób uprawnionych do głosowania wzięło udział. Wpłynęły na nią silne emocje i polaryzacja wokół obu kandydatów - Donalda Trumpa oraz Joe Bidena.
